@@ -1,0 +1,31 @@
+{
+  "name": "winonavue",
+  "version": "1.0.0",
+  "description": "winonavue is a UI component library for React",
+  "main": ".dist/index.js",
+  "module": ".dist/index.mjs",
+  "types": ".dist/index.d.ts",
+  "homepage": "https://github.com/winona-ui/winonavue",
+  "repository": {
+    "url": "https://github.com/winona-ui/winonavue"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "ui",
+    "component",
+    "library",
+    "winonavue",
+    "windows",
+    "design"
+  ],
+  "author": "monacodelisa",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
